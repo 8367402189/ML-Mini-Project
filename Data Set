@@ -1,1 +1,3 @@
 The dataset is done by using bing image downloader
+command:
+!pip install bing-image-downloader
